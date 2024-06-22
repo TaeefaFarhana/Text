@@ -1,0 +1,17 @@
+Additive mixing: 
+
+Red + Green = Yellow                           Red + Blue = Magenta    
+
+Green + Blue = Cyan                        Red + Green + Blue = White
+
+
+Subtracting Mixing: 
+
+White has three colors Red, Green and Blue.
+Red = White - Green – Blue
+Green = White - Red – Blue
+Blue = White - Green – Red (That means subtract green color and red color from white color).
+Cyan = White - Red
+Yellow = White - Blue
+Magenta = White - Green
+Black = White – Red – Green – Blue (That means no color exists).
